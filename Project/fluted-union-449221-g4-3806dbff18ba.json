@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fluted-union-449221-g4",
+  "private_key_id": "3806dbff18ba61cce0410c38e3327d9cddd90cb0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDDAPm8xM+MykrA\nCO/7rnXBj0zbXAD8zmvPaUfm0rX+eGal/yEXC8jXklOefUfgze6g39r9vQHKvSKP\ncWBzfSgK0wob5F8pGE8LxVzS2Q1xfr1KstL0O0xhCms7xst6aYWO5ef8LSfHH8Ir\nsc2cw6ydVEGTX+3LCmcfg/x5lhd+V2dEPSstYC4WzPIQ14CrqTVdsJ79RN0YoLd5\ngD79IqNA0VOUySqXEMuOLwxAbjJbWGtBCUwGDm9/BkE+49McdrPRmV5wZ0OrZQ9U\ntovHLzHpnaFsQ4ZYqXRYfRBZAGJ9I03O2ZB/wDWffFTk97olvnPDrmkBE0MR3rbL\nGa0rfG2FAgMBAAECggEABQIlvTsZQuTHo2AegANT2rTt1oXNaSKXNn4zZ48OGyCA\nvfmWvolXR/2tHpIvKTLWKA4NJbk0PHeRHKuXyrFV42PzGfZKmhBg/ZPZUiQiG+yv\nu0HATfTffajISkmGB0CCVxePczS+I5PlkgO5nL/nmn7ZYonzM6vrSJGZzsb3T7pZ\nessR1/eXwzpZpHJzRpQcnzm9IMDf1YenAMMjE+T+5iul1MBGrxXqW229EDVEyegY\nxUgprWpFIFdJNsVZUpaAZKNSSHMxPU8XfA2qaOXPDexOqXm2UQlcW43QDB6MAChA\nz6ntUmZf1qt9FnZlB8h2FzihSinImhTsQm8ZluC1/QKBgQDggA99ZnsINXowhhbz\nYs6qS2ryG4YwEag9L6quOUqQhK9CCrEYAv1qwYaC6cLAhoZAm2L0Acq3A1JJ26LY\nVCzlJZ9VdnhYg+HFDCueiN/UC882DTNx0SnqO37P20pFyq+VYFUlko2+GJj5hCqc\n8wLaF9gBs25JGf6sDJ1FsVqNCwKBgQDeXWrxB1CHwGMiQDsx5DaLLBKNqZb5yafF\nvwGT0aOiP4F2R7dUDpXao2B9WTi8bgaraLkKQwjhkpsTE4HbV+MmY6ApjuQ8LOu4\n7nulufndsitXacDoOZwoJZ6UsPWmd6OvHb86SvJ8TXMz4EwER3o0Rqf471Iw7UAg\nm4kGKQXprwKBgQCXShWmN1qwFIHMk4CB8lM9deeTUrMiT7Plz+qg0GEMdS46PkRL\n3y/yMoq4TFn/Lmjovw53S4HVxXo95bKfQFKk9a6jhFvjorSR+vqmMq1ME81HKqxB\nhmhNvlxeLPSnhci/zJR05od41NC6TbP94tJIMQtTUhz/THJQdYvC/Jr+MwKBgQCd\nnsxqU8wCnh3nLm6HXARJvJDeN+Nb5lR1eIJuvIBoRunG5OkPvVL96yc/UxpDfx5d\nLFtV6dSGyPwBlqdKys6p7J6gNriT6yegK/QbsmtqeZv9V2o1cni9gIUbUyCdwlqV\ni9l8QZoHAINztz9LHTuDiL4SV9oD8nitZHLJmhSl4wKBgEWeC2CMHqaonLazzfSK\nCnlh7J19dX3/07c7yfeo8x1F/CCfXiwoucdBw2bUT6yyo3SmROSJePXLzhAY13hd\noQwQoz8wrPQHXDth7GD7JI7fQFG1wMsfPddIGoAPwp3hlx/HQ9evnj11hC0Wbie3\n/rQNt/C3npQOq5E3sqLPj0ML\n-----END PRIVATE KEY-----\n",
+  "client_email": "lbgooglecloudproject1@fluted-union-449221-g4.iam.gserviceaccount.com",
+  "client_id": "106218765197190259407",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lbgooglecloudproject1%40fluted-union-449221-g4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
